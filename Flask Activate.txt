@@ -13,3 +13,14 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
 ./virt/Scripts/activate.ps1
 
 To create a file with VS code instead of touch type in code
+
+
+How to Activate Virt in Git Bash Terminal 
+
+
+
+How to Save Git Hub Paste the 3 lines below in the Git Bash Terminal 
+git add . 
+git commit -am'tweaked ______'  
+            ______ = file name include ex: .html 
+git push 
