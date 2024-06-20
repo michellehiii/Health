@@ -1,0 +1,15 @@
+Paste the 2 lines below in the Windows Powershell that is activated with env
+
+$env:FLASK_APP = "___"
+___ = the name of your program for example webpage [just put the name in don't need to do ___ or .py]
+flask run
+
+enabling Debug + Reload (So don't need to reopen everytime)
+flask --app hello run --debug --no-debugger --no-reload
+
+Virt activated (paste the 2 lines below in the windows powershell)
+
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process -Force
+./virt/Scripts/activate.ps1
+
+To create a file with VS code instead of touch type in code
