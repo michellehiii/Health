@@ -22,5 +22,5 @@ How to Activate Virt in Git Bash Terminal
 How to Save Git Hub Paste the 3 lines below in the Git Bash Terminal 
 git add . 
 git commit -am'tweaked ______'  
-            ______ = file name include ex: .html 
+______ = file name ex: Flask_Activate.txt (Make sure to save before entering the code)
 git push 
